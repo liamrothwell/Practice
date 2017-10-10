@@ -1,0 +1,6 @@
+C:\Users\Liam\documents\visual studio 2017\Projects\Simplecalculator\Simplecalculator\bin\Debug\Simplecalculator.exe.config
+C:\Users\Liam\documents\visual studio 2017\Projects\Simplecalculator\Simplecalculator\bin\Debug\Simplecalculator.exe
+C:\Users\Liam\documents\visual studio 2017\Projects\Simplecalculator\Simplecalculator\bin\Debug\Simplecalculator.pdb
+C:\Users\Liam\documents\visual studio 2017\Projects\Simplecalculator\Simplecalculator\obj\Debug\Simplecalculator.csprojResolveAssemblyReference.cache
+C:\Users\Liam\documents\visual studio 2017\Projects\Simplecalculator\Simplecalculator\obj\Debug\Simplecalculator.exe
+C:\Users\Liam\documents\visual studio 2017\Projects\Simplecalculator\Simplecalculator\obj\Debug\Simplecalculator.pdb

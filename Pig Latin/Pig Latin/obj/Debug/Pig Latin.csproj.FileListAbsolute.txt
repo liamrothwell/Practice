@@ -1,0 +1,7 @@
+c:\users\liam\documents\visual studio 2017\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe.config
+c:\users\liam\documents\visual studio 2017\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe
+c:\users\liam\documents\visual studio 2017\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.pdb
+c:\users\liam\documents\visual studio 2017\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.csprojResolveAssemblyReference.cache
+c:\users\liam\documents\visual studio 2017\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.exe
+c:\users\liam\documents\visual studio 2017\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.pdb
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.csproj.CoreCompileInputs.cache

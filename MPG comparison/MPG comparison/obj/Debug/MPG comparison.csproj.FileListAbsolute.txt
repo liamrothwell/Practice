@@ -1,0 +1,13 @@
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\bin\Debug\MPG comparison.exe.config
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\bin\Debug\MPG comparison.exe
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\bin\Debug\MPG comparison.pdb
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\obj\Debug\MPG comparison.csprojResolveAssemblyReference.cache
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\obj\Debug\MPG_comparison.MPGComparison.resources
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\obj\Debug\MPG_comparison.Properties.Resources.resources
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\obj\Debug\MPG comparison.csproj.GenerateResource.Cache
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\obj\Debug\MPG comparison.exe
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\obj\Debug\MPG comparison.pdb
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\bin\Debug\MPG comparison.exe.manifest
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\bin\Debug\MPG comparison.application
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\obj\Debug\MPG comparison.exe.manifest
+c:\users\liam\documents\visual studio 2017\Projects\MPG comparison\MPG comparison\obj\Debug\MPG comparison.application
