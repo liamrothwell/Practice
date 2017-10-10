@@ -1,0 +1,6 @@
+c:\users\liam\documents\visual studio 2017\Projects\Almost Chess\Almost Chess\bin\Debug\Almost Chess.exe.config
+c:\users\liam\documents\visual studio 2017\Projects\Almost Chess\Almost Chess\bin\Debug\Almost Chess.exe
+c:\users\liam\documents\visual studio 2017\Projects\Almost Chess\Almost Chess\bin\Debug\Almost Chess.pdb
+c:\users\liam\documents\visual studio 2017\Projects\Almost Chess\Almost Chess\obj\Debug\Almost Chess.csprojResolveAssemblyReference.cache
+c:\users\liam\documents\visual studio 2017\Projects\Almost Chess\Almost Chess\obj\Debug\Almost Chess.exe
+c:\users\liam\documents\visual studio 2017\Projects\Almost Chess\Almost Chess\obj\Debug\Almost Chess.pdb
