@@ -1,0 +1,16 @@
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\CodingChallengesCSharpTwoSumTests1.dll
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\CodingChallengesCSharpTwoSumTests1.pdb
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\CodingChallengesCSharp.exe
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\CodingChallengesCSharp.pdb
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\CodingChallengesCSharp.exe.config
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\obj\Debug\CodingChallengesCSharpReverseArray.csprojResolveAssemblyReference.cache
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\obj\Debug\CodingChallengesCSharpReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\obj\Debug\CodingChallengesCSharpTwoSumTests1.dll
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharpTwoSumTests1\obj\Debug\CodingChallengesCSharpTwoSumTests1.pdb

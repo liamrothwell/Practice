@@ -1,0 +1,7 @@
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharp\bin\Debug\CodingChallengesCSharp.exe.config
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharp\bin\Debug\CodingChallengesCSharp.exe
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharp\bin\Debug\CodingChallengesCSharp.pdb
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharp\obj\Debug\CodingChallengesCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharp\obj\Debug\CodingChallengesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharp\obj\Debug\CodingChallengesCSharp.exe
+C:\Users\Liam Rothwell\source\repos\CodingChallengesCSharp\CodingChallengesCSharp\obj\Debug\CodingChallengesCSharp.pdb
