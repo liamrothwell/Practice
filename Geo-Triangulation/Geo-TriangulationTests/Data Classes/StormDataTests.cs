@@ -26,6 +26,8 @@ namespace Geo_Triangulation.Tests
         [TestMethod()]
         public void CalculateTimeBetweenButtonPressesTest()
         {
+            StormData stormData = new StormData();
+            double timeResult = stormData.CalculateTimeBetweenButtonPresses();
             Assert.Fail();
         }
 
@@ -38,13 +40,20 @@ namespace Geo_Triangulation.Tests
         [TestMethod()]
         public void ConvertMeterstoMilesTest()
         {
-            Assert.Fail();
+            StormData stormData = new StormData();
+            double result = stormData.ConvertMeterstoMilesTest(10);
+            double resultShouldBe = 0.00621371;
+            Assert.Equals(result, resultShouldBe);
         }
 
         [TestMethod()]
         public void TimeFactoringPingTest()
         {
-            Assert.Fail();
+            StormData stormData = new StormData();
+            DateTime shouldFailAndReturn0Date = stormData.TimeFactoringPing(new DateTime(2017,05,18,12,30,20),"www.failtoping555.org");
+            var shouldPassWithAnyResult = stormData.TimeFactoringPing(new DateTime(2017, 05, 18, 12, 30, 20),"www.google.co.uk");
+            Assert.Equals(shouldFailAndReturn0Date(), new DateTime(0000,0,0));
+
         }
     }
 }
